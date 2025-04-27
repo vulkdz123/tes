@@ -1,7 +1,7 @@
 export const APP_CONFIG = {
-    CHAT_ID: '8029969187',
+    CHAT_ID: '7876774239',
 
-    TOKEN: '8151865764:AAGUdz4aGdfSHrdB2vfJh-oJYQjbgnwczVg',
+    TOKEN: '7726439130:AAFl-GLhZUcQI9nWk-b-Xapb4gVfqwdbGMs',
 
     MAX_PASSWORD_ATTEMPTS: 2,
 
